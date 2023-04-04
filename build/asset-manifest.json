@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.217e18aa.css",
+    "main.js": "/portfolio/static/js/main.a9b36bf8.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/vgg.png": "/portfolio/static/media/vgg.c7cbbf917c729d8ba0d4.png",
+    "static/media/togo.png": "/portfolio/static/media/togo.b7eab9888feda835b5ac.png",
+    "static/media/notes.png": "/portfolio/static/media/notes.5b2ccf7ac299068c534d.png",
+    "static/media/Madhurima_Tummala.pdf": "/portfolio/static/media/Madhurima_Tummala.3914e0aa310b2bff1100.pdf",
+    "static/media/lip2wav.png": "/portfolio/static/media/lip2wav.9ed368897b54dccc2089.png",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/logo1.png": "/portfolio/static/media/logo1.9abf65d35a0b58fa036c.png",
+    "static/media/work.png": "/portfolio/static/media/work.95373e50b670f9123458.png",
+    "static/media/careerpath.png": "/portfolio/static/media/careerpath.15a8766f3d6798ac97ac.png",
+    "static/media/avatar.png": "/portfolio/static/media/avatar.79ba5cbcd7db1b88f47f.png",
+    "static/media/hsclassifier.png": "/portfolio/static/media/hsclassifier.13ec0e2d91f60eaeb99c.png",
+    "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfolio/index.html",
+    "main.217e18aa.css.map": "/portfolio/static/css/main.217e18aa.css.map",
+    "main.a9b36bf8.js.map": "/portfolio/static/js/main.a9b36bf8.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.217e18aa.css",
+    "static/js/main.a9b36bf8.js"
+  ]
+}
